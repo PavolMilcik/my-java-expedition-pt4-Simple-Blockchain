@@ -1,4 +1,4 @@
-# Part 4 - Simple Blockchain :hotsprings:
+# Part 4 - Simple Blockchain :technologist:
 My simple **Blockchain** in OOP in Java. First time using **Maven** as the **build system**.
 
 ##
@@ -15,4 +15,4 @@ My simple **Blockchain** in OOP in Java. First time using **Maven** as the **bui
 
   ##
   
-According to this article - [robime.it/vytvorme-si-vlastny-blockchain-v-jave](https://robime.it/vytvorme-si-vlastny-blockchain-v-jave/), I created this simple blockchain.
+*According to this article - [robime.it/vytvorme-si-vlastny-blockchain-v-jave](https://robime.it/vytvorme-si-vlastny-blockchain-v-jave/), I created this simple blockchain.*
