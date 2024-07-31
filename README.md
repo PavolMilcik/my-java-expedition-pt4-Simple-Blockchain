@@ -1,4 +1,4 @@
-# Part 4 - Simple Blockchain :technologist:
+# Part 4 - Blockchain :technologist:
 My simple **Blockchain** in OOP in Java. First time using **Maven** as the **build system**.
 
 ##
